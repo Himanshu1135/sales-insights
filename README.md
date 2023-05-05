@@ -1,4 +1,4 @@
-# sales-insights
+# Sales-Insights
 
 The Sale Insight project was focused on analyzing sales data to generate valuable insights using SQL queries, data modeling techniques, and Power BI visualization tools. The objective of this project was to provide stakeholders with a clear understanding of their sales performance and identify areas of improvement.
 
